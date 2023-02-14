@@ -7,7 +7,7 @@
 
 <h2 align="center"> Self-taught and passionate about coding! </h2><br>
 
-* 👨‍💻 I'm Gregory👋, a Frontend Developer from Tver. <br><br>
+* 👨‍💻 I'm Gregory👋, a Frontend Developer. <br><br>
 
 * 🌳 I’m currently learning TypeScript, Vue and NestJS! <br><br>
 
