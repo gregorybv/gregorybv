@@ -21,8 +21,6 @@
 
 * 📫 How to reach me: **gregory_berezin@outlook.com**<br><br>
 
-* 📄 Know about my
-  experiences [https://drive.google.com/file/d/1KQp1-nPjznb3Rhs4YjntqrDkm4j-ss80/view?usp=share_link](https://drive.google.com/file/d/1KQp1-nPjznb3Rhs4YjntqrDkm4j-ss80/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex">
