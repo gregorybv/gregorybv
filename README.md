@@ -26,7 +26,7 @@
 <p align="left" style="display: flex">
 <a href="https://www.linkedin.com/in/gregory-berezin-58444a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gregory-berezin-58444a23a/" height="25" width="30" /></a>
 <a href="https://discord.gg/ZMzvdzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZMzvdzak" height="30" width="40" /></a>
-<a href="https://discord.gg/ZMzvdzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain
+<a href="https://discord.gg/ZMzvdzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/gregorybv
 /github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZMzvdzak" height="30" width="40" /></a>
 <a href="https://t.me/MrGregoryv" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@MrGregoryv" height="30" width="30" /></a>
 </p>
