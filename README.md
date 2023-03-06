@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=01978A&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Gregory+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=01978A&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Gregory+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Gregory and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"  alt="borderseparator"/>
 
 <h2></h2>
@@ -24,8 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex">
-<a href="https://www.linkedin.com/in/gregory-berezin-58444a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gregory-berezin-58444a23a/" height="25" width="30" /></a>
-<a href="https://discord.gg/ZMzvdzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZMzvdzak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gregory-berezin-58444a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gregorybv
+/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gregory-berezin-58444a23a/" height="25" width="30" /></a>
+<a href="https://discord.gg/ZMzvdzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/gregorybv
+/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZMzvdzak" height="30" width="40" /></a>
 <a href="https://t.me/MrGregoryv" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="@MrGregoryv" height="30" width="30" /></a>
 </p>
 
