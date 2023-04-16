@@ -9,7 +9,7 @@
 
 * 👨‍💻 I'm Gregory👋, a Frontend Developer. <br><br>
 
-* 🌳 I’m currently learning TypeScript, Vue and NestJS! <br><br>
+* 🌳 I’m currently learning TypeScript and NestJS! <br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
