@@ -15,7 +15,7 @@
 
 * 🌊 2023 Goals: Get more Frontend experience and go deeper into Backend development. <br><br>
 
-* ☕ Interest: Science, Coffee and Coding. <br><br>
+* ☕ Interest: Technology,Coding and Coffee. <br><br>
 
 * :octocat: Hobbies: Reading, Sport, Movies. <br><br>
 
@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorybv&show_icons=true&locale=en&layout=compact" alt="gregorybv"/> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nodejs,mongodb,docker,webpack,vite,firebase,bootstrap,git,github,githubactions,vscode,idea,figma,ps" alt="skills logos" /> <br>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nodejs,mongodb,docker,webpack,vite,firebase,bootstrap,git,github,githubactions,vscode,idea,figma,ps" alt="skills logos" /> <br>
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=vue,angular,nestjs,astro,aws,blender,wordpress" alt="skills planning to learn logos">
 </div>
