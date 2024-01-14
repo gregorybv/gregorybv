@@ -48,7 +48,3 @@
   <img src="https://streak-stats.demolab.com?user=gregorybv&theme=dark" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=gregorybv&theme=dark&show_icons=true&count_private=true" height="150" alt="stats graph" />
 </div> <br>
-
-![Gregory's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gregorybv&custom_title=Gregory's%20GitHub%20Activity%20Graph&bg_color=dark&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=fff&area=true)
-
-</br>
