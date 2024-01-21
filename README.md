@@ -37,8 +37,6 @@
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nodejs,mongodb,docker,webpack,vite,firebase,bootstrap,git,github,githubactions,vscode,idea,figma,ps" alt="skills logos" /> <br>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nestjs,astro,aws,blender" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
