@@ -9,8 +9,6 @@
 
 * 👨‍💻 I'm Gregory👋, a Frontend Developer. <br><br>
 
-* 🌳 I’m currently learning TypeScript and NestJS! <br><br>
-
 * 🐾 I’m looking to network and make friends here! <br><br>
 
 * 🌊 2024 Goals: Get more Frontend experience and go deeper into Backend development. <br><br>
