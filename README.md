@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorybv&show_icons=true&locale=en&layout=compact" alt="gregorybv"/> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nodejs,mongodb,docker,webpack,vite,firebase,bootstrap,git,github,githubactions,vscode,idea,figma,ps" alt="skills logos" /> <br>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nodejs,nestjs,mongodb,docker,webpack,gulp,vite,firebase,postgres,postman,bootstrap,git,github,githubactions,vscode,webstorm,npm,figma,ps" alt="skills logos" /> <br>
 </div>
 
 <h2></h2>
