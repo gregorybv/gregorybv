@@ -11,8 +11,6 @@
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 2024 Goals: Get more Frontend experience and go deeper into Backend development. <br><br>
-
 * ☕ Interest: Technology,Coding and Coffee. <br><br>
 
 * :octocat: Hobbies: Reading, Sport, Movies. <br><br>
