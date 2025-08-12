@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorybv&show_icons=true&locale=en&layout=compact" alt="gregorybv"/> <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,vue,nodejs,nestjs,mongodb,docker,webpack,gulp,vite,firebase,postgres,postman,bootstrap,git,github,githubactions,vscode,webstorm,npm,figma,ps" alt="skills logos" /> <br>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,next,vue,nodejs,nestjs,mongodb,docker,webpack,gulp,vite,firebase,postgres,postman,bootstrap,git,github,githubactions,vscode,webstorm,npm,figma,ps" alt="skills logos" /> <br>
 </div>
 
 <h2></h2>
