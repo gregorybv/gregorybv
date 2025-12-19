@@ -7,7 +7,7 @@
 
 <h2 align="center"> Self-taught and passionate about coding! </h2><br>
 
-* 👨‍💻 I'm Gregory👋, a Frontend Developer. <br><br>
+* 👨‍💻 I'm Gregory👋, a Software Engineer. <br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
